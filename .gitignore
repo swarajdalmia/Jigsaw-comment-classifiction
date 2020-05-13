@@ -1,8 +1,10 @@
 
+venv_jigsaw/
 Data/
 .DS_Store
 *.txt
 .gitattributes
+.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
